@@ -57,6 +57,7 @@ System.out.println("guau");
 
 <img width="50" src="https://www.mastorrencito.com/wp-content/uploads/2015/01/que-hago-si-me-ataca-un-perro-agresivo.jpg"/>
 
+![alt][banner]
 
 [perro]:perro.jpg
-[banner]:banner.sv
+[banner]:banner.svg
