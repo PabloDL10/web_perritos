@@ -22,5 +22,5 @@ Somos una **_asociacion_** amante de los animales. Fuck ~~maltrato~~ fuck sapos.
 [visita la wikipedia](https://es.wikipedia.org/wiki/Canis_familiaris)
 
 ## El Perro más bonito
-![alt][perro]
+! [alt][perro]
 [perro]:perro.jpg
